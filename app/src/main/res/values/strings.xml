@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Submission Project</string>
+    <string name="cars_name">Nama Mobil</string>
+    <string name="cars_type">Merk Type</string>
+    <string name="car_detail">Product Details</string>
+    <string name="home_page">Halaman Utama</string>
+    <string name="detail_page">Halaman Detail</string>
+    <string name="about_page">Halaman About</string>
+</resources>
