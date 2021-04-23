@@ -6,4 +6,8 @@
     <string name="home_page">Halaman Utama</string>
     <string name="detail_page">Halaman Detail</string>
     <string name="about_page">Halaman About</string>
+    <string name="vehicles_car">"Toyota Vehicles "</string>
+    <string name="detail_car">Product Details</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
 </resources>
